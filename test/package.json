@@ -1,0 +1,19 @@
+{
+  "name": "assignment01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MyMath.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  }
+}
